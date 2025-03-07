@@ -1,6 +1,6 @@
 # Lib_Slide
 ![alt text](https://github.com/Jmr3366/Lib_Slide/blob/main/LibSlide.webp?raw=true)
-- Video tutorial: coming soon
+(https://youtu.be/A9VBdFx3S-Q)
 
 Library token for the Maptool VTT application.
 
